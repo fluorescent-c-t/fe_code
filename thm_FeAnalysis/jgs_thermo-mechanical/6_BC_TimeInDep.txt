@@ -1,0 +1,56 @@
+1	ddxx	0	ddzz	0	du	0	dT	0
+2	ddxx	0	ddzz	0	du	0	dT	0
+3	ddxx	0						
+4	ddxx	0						
+5	ddxx	0						
+6	ddxx	0						
+7	ddxx	0						
+8	ddxx	0						
+9	ddxx	0						
+10	ddxx	0						
+11	ddxx	0						
+12	ddxx	0						
+13	ddxx	0						
+14	ddxx	0						
+15	ddxx	0						
+16	ddxx	0						
+17	ddxx	0						
+18	ddxx	0						
+19	ddxx	0						
+20	ddxx	0						
+21	ddxx	0						
+22	ddxx	0						
+23	ddxx	0						
+24	ddxx	0						
+25	ddxx	0						
+26	ddxx	0						
+27	ddxx	0						
+28	ddxx	0						
+29	ddxx	0						
+30	ddxx	0						
+31	ddxx	0						
+32	ddxx	0						
+33	ddxx	0						
+34	ddxx	0						
+35	ddxx	0						
+36	ddxx	0						
+37	ddxx	0						
+38	ddxx	0						
+39	ddxx	0						
+40	ddxx	0						
+41	ddxx	0						
+42	ddxx	0						
+43	ddxx	0						
+44	ddxx	0						
+45	ddxx	0						
+46	ddxx	0						
+47	ddxx	0						
+48	ddxx	0						
+49	ddxx	0						
+50	ddxx	0						
+51	ddxx	0						
+52	ddxx	0						
+53	ddxx	0						
+54	ddxx	0						
+55	ddxx	0			du	0	dT	0
+56	ddxx	0			du	0	dT	0
