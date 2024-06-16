@@ -158,7 +158,7 @@ def append_strs_tnsr(i, j, σA_gp, σB_gp, σC_gp, u):
     
     σA_gp[i][j][0][0], σA_gp[i][j][1][1], σA_gp[i][j][2][2]                       = 2.0 *  sigxx, 2.0 * sigyy, 2.0 * sigzz
     σA_gp[i][j][3][3]                                                             = 0.5 * (sigxx + sigzz)
-    σA_gp[i][j][0][3] = σA_gp[i][j][2][3] = σA_gp[i][j][3][0] = σA_gp[i][j][3][1] = tauzx
+    σA_gp[i][j][0][3] = σA_gp[i][j][2][3] = σA_gp[i][j][3][0] = σA_gp[i][j][3][2] = tauzx
     
     σB_gp[i][j][0][0], σB_gp[i][j][1][1], σB_gp[i][j][2][2]                       = sigxx, sigyy, sigzz
     σB_gp[i][j][3][4]                                                             = sigxx
